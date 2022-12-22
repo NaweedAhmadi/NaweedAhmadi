@@ -24,7 +24,7 @@
 
 <!-- contribution graph.... -->
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=NaweedAhmadi" alt="NaweedAhmadi" /><p/>
+<!-- <p><img src="https://activity-graph.herokuapp.com/graph?username=NaweedAhmadi" alt="NaweedAhmadi" /><p/> -->
 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/NaweedAhmadi)   -->
