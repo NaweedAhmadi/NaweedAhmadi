@@ -2,8 +2,6 @@
 <h3>Software Developer <a href="#" target="blank">@SCUSD</a></h3>
 
 - I’m currently working on [RepoVista](https://github.com/RepoVista)
-- I’m looking to collaborate on [highlight.js](https://github.com/highlightjs)
-- I’m looking for help with [DevPen](https://github.com/NaweedAhmadi/React-Interview-Questions)
 - I regularly write articles on [https://naweed.dev/](https://www.naweed.dev/BlogPage/1)
 - Ask me about **JavaScript, Node.js, and React.js**
 - How to reach me **https://www.naweed.dev/contact**
