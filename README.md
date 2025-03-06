@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Naweed Ahmadi</h1>
-<h3>Software Developer <a href="#" target="blank">@SCUSD</a></h3>
+<h3>Web Application Developer <a href="#" target="blank">@SCUSD</a></h3>
 
-- I’m currently working on [RepoVista](https://github.com/RepoVista)
+- I’m currently working on [NutriWeb](https://nutriweb.org)
 - I regularly write articles on [https://naweed.dev/](https://www.naweed.dev/BlogPage/1)
 - Ask me about **JavaScript, Node.js, and React.js**
 - How to reach me **https://www.naweed.dev/contact**
@@ -24,14 +24,3 @@
 	<a href="https://www.youtube.com/@naweed-ahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Naweed-Ahmadi" height="30" /></a>&nbsp;
   <a href="https://medium.com/@NaweedAhmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="NaweedAhmadi" height="30" /></a>&nbsp;
 </p>
-
-
-<details><summary>GitHub Stats</summary>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaweedAhmadi&show_icons=true&theme=dark&locale=en" alt="NaweedAhmadi" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaweedAhmadi&theme=dark" alt="Naweed Ahmadi" /> |
-| :---: | :---: |
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaweedAhmadi&show_icons=true&theme=dark&locale=en&layout=compact" alt="Naweed Ahmadi" /> |
-| :---: |
-
-</details><br><br>
