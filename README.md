@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Naweed Ahmadi</h1>
-<h3>Web Application Developer <a href="#" target="blank">@SCUSD</a></h3>
+<h3>Web Application Developer</h3>
 
-- I’m currently working on [NutriWeb](https://nutriweb.org)
+- I’m currently working on [nutriweb](https://nutriweb.org)
 - I regularly write articles on [https://naweed.dev/](https://www.naweed.dev/BlogPage/1)
 - Ask me about **JavaScript, Node.js, and React.js**
 - How to reach me **https://www.naweed.dev/contact**
